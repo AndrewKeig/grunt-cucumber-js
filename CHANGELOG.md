@@ -2,6 +2,7 @@
 
 ## v 0.2.4
 * Upgrade cucumber to 0.4.2, to support scenario outlines
+* Forking from https://github.com/s9tpepper/grunt-cucumber-js
 
 ## v 0.2.3
 * Fixed 'executable' rename to 'modulePath'
