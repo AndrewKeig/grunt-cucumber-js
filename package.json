@@ -1,7 +1,7 @@
 {
   "name": "grunt-cucumber-js",
-  "description": "Grunt task for running Cucumber.js",
-  "version": "0.2.4",
+  "description": "Grunt task for running Cucumber.js supports scenario outlines",
+  "version": "0.2.5",
   "homepage": "https://github.com/andrewkeig/grunt-cucumber-js",
   "author": {
     "name": "Andrew Keig",
