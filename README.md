@@ -112,5 +112,4 @@ Help us squash them by submitting an issue that describes how you encountered it
 see [CHANGELOG](CHANGELOG.md).
 
 ## License
-Copyright (c) 2012 "s9tpepper" Omar Gonzalez & contributors.
 Licensed under the MIT license.
