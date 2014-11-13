@@ -16,12 +16,12 @@ and use Grunt plugins. Once you're familiar with that process, you may
 install this plugin with this command:
 
 ```shell
-$ npm install grunt-cucumber --save-dev
+$ npm install grunt-cucumber-js --save-dev
 ```
 Then add this configuration to your project's `Gruntfile.js`.
 
 ```js
-grunt.loadNpmTasks('grunt-cucumber');
+grunt.loadNpmTasks('grunt-cucumber-js');
 ```
 
 ## Cucumberjs Task
